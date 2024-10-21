@@ -1,0 +1,3 @@
+[submodule "Calliope"]
+	path = Calliope
+	url = https://github.com/DaphneWebFramework/Calliope.git
