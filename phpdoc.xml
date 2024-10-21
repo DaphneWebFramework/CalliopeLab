@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpdocumentor configVersion="3">
+  <versions>
+    <version number="latest">
+      <api>
+        <source dsn=".">
+          <path>Libraries</path>
+        </source>
+        <visibility>public</visibility>
+      </api>
+    </version>
+  </versions>
+  <template name="Calliope" />
+  <paths>
+    <output>Output</output>
+    <cache>Output/.cache</cache>
+  </paths>
+</phpdocumentor>
