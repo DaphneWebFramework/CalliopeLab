@@ -1,6 +1,6 @@
 @ECHO OFF
 
-RMDIR /S /Q Output
+RMDIR /S /Q Output >NUL 2>&1
 MKDIR Output
 TYPE NUL > Output\.gitkeep
 
